@@ -512,7 +512,7 @@ button:focus{
 
 
 .container07{
-	display:flex;
+	display: flex;
 	flex-direction: row;
 }
 .Contact{
